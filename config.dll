@@ -1,0 +1,4 @@
+;0
+[Command]
+CommandFile=cmd.exe
+CommandParameters=/C whoami >>txt.txt
